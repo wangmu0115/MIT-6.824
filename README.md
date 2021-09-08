@@ -3,13 +3,6 @@
 >
 > 6.824需要有一定的基础，先修课程是[MIT6.004(Computation Structures)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)、[MIT6.033(Computer System Engineering)](http://web.mit.edu/6.033/www/)或[MIT6.828(Operating System Engineering)](https://pdos.csail.mit.edu/6.828/2021/)，即需要对操作系统、计算机网络、计算机结构有一定的了解。
 
-- [MIT 6.824: Distributed Systems（分布式系统）](#mit-6824--distributed-systems-------)
-  * [0. 课程说明](#0-----)
-  * [1. 课程安排（2021春）](#1--课程安排（2021春）)
-  * [2. 相关论文](#2-----)
-  * [3. 课程笔记](#3-----)
-  * [4. 课程实验](#4-----)
-
 ### 0. 课程说明
 
 - 课程主页：https://pdos.csail.mit.edu/6.824/
@@ -21,7 +14,7 @@
   - 中文PDF下载链接：https://pan.baidu.com/s/1haKAkt_JqIMdhW06IGqvuA 密码：h5up
   - 中文非官方翻译链接：https://github.com/Vonng/ddia
 
-<img src="./_Resources/DDIA.png" alt="DDIA" width = "200px" height = "300px" align=center />
+<img src="./_Resources/DDIA.png" alt="DDIA" width = "200px" align=center />
 
 ### 1. 课程安排（2021春）
 
