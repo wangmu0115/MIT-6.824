@@ -3,13 +3,16 @@
 >
 > 6.824需要有一定的基础，先修课程是[MIT6.004(Computation Structures)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)、[MIT6.033(Computer System Engineering)](http://web.mit.edu/6.033/www/)或[MIT6.828(Operating System Engineering)](https://pdos.csail.mit.edu/6.828/2021/)，即需要对操作系统、计算机网络、计算机结构有一定的了解。
 
-### 0. 课程说明
+### 0. 课程资料
 
 - 课程主页：https://pdos.csail.mit.edu/6.824/
-
 - 课程安排：https://pdos.csail.mit.edu/6.824/schedule.html
-
-- 课程参考书可以使用：[<<数据密集型应用系统设计>>](https://book.douban.com/subject/30329536/)，该书将理论结构化，有着清晰的脉络。
+- 课程视频
+  - 官方视频：https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g
+  - 中文字幕（Bigbang1984）：https://www.bilibili.com/video/BV1R7411t71W
+  - 中文字幕（simviso）：https://www.bilibili.com/video/BV1x7411M7Sf
+  - 中文字幕（比特位科技）：https://www.bilibili.com/video/BV1FE411t7bC
+- 课程参考书：[<<数据密集型应用系统设计>>](https://book.douban.com/subject/30329536/)
   - 英文PDF下载链接：https://pan.baidu.com/s/1jJhzSxS5wd7HJyww7Z2m0w 密码：gjrn
   - 中文PDF下载链接：https://pan.baidu.com/s/1haKAkt_JqIMdhW06IGqvuA 密码：h5up
   - 中文非官方翻译链接：https://github.com/Vonng/ddia
