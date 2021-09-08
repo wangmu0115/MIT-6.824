@@ -5,12 +5,10 @@
 
 - [MIT 6.824: Distributed Systems（分布式系统）](#mit-6824--distributed-systems-------)
   * [0. 课程说明](#0-----)
-  * [1. 课程安排（2021春）](#1------2021--)
+  * [1. 课程安排（2021春）](#1--课程安排（2021春）)
   * [2. 相关论文](#2-----)
   * [3. 课程笔记](#3-----)
   * [4. 课程实验](#4-----)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ### 0. 课程说明
 
@@ -23,7 +21,7 @@
   - 中文PDF下载链接：https://pan.baidu.com/s/1haKAkt_JqIMdhW06IGqvuA 密码：h5up
   - 中文非官方翻译链接：https://github.com/Vonng/ddia
 
-<img src="./_Resources/DDIA.png" alt="DDIA" style="width:200px, height:200px" />
+<img src="./_Resources/DDIA.png" alt="DDIA" width = "200px" height = "300px" align=center />
 
 ### 1. 课程安排（2021春）
 
