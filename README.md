@@ -10,6 +10,8 @@
   * [3. 课程笔记](#3-----)
   * [4. 课程实验](#4-----)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ### 0. 课程说明
 
 - 课程主页：https://pdos.csail.mit.edu/6.824/
@@ -17,11 +19,11 @@
 - 课程安排：https://pdos.csail.mit.edu/6.824/schedule.html
 
 - 课程参考书可以使用：[<<数据密集型应用系统设计>>](https://book.douban.com/subject/30329536/)，该书将理论结构化，有着清晰的脉络。
-  - 英文PDF下载链接：https://pan.baidu.com/s/1jJhzSxS5wd7HJyww7Z2m0w，密码：gjrn
-  - 中文PDF下载链接：https://pan.baidu.com/s/1haKAkt_JqIMdhW06IGqvuA，密码：h5up
+  - 英文PDF下载链接：https://pan.baidu.com/s/1jJhzSxS5wd7HJyww7Z2m0w 密码：gjrn
+  - 中文PDF下载链接：https://pan.baidu.com/s/1haKAkt_JqIMdhW06IGqvuA 密码：h5up
   - 中文非官方翻译链接：https://github.com/Vonng/ddia
 
-<img src="./_Resources/DDIA.png" alt="DDIA" style="zoom:20%;" />
+<img src="./_Resources/DDIA.png" alt="DDIA" style="width:200px, height:200px" />
 
 ### 1. 课程安排（2021春）
 
